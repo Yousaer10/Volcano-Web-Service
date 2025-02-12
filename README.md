@@ -11,8 +11,6 @@ This service is built using:
 - **Reference JSON parser** for JSON formatting
 - **Java's built-in DOM XML parser** for XML handling
 
-**Note:** No additional libraries should be used beyond those specified above.
-
 ---
 
 ## Getting Started
